@@ -1,0 +1,28 @@
+/* CSS Styles */
+
+
+/* Title */
+.title {
+    text-align: center;
+}
+/* End of Title */
+
+/* Logo */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+/* End of Logo */
+
+/* Recipe Links */
+.recipes-container{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.recipes {
+    padding: 50px;
+}
+/* End of Recipe Links */
