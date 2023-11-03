@@ -1,6 +1,5 @@
 /* CSS Styles */
 
-
 /* Title */
 .title {
     text-align: center;
@@ -19,10 +18,14 @@
 /* Recipe Links */
 .recipes-container{
     text-align: center;
-    padding-top: 20px;
+    padding: 10px;
 }
 
 .recipes {
-    padding: 50px;
+    padding: 13px;
+    margin: auto;
+    background-color: black;
+    color: #EEEEEE;
+    border: red 3px solid;
 }
 /* End of Recipe Links */
